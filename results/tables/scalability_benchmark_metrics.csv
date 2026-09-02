@@ -1,0 +1,5 @@
+N_records,Brute_Force_KNN_Time_Sec,KD_Tree_Query_Time_Sec,Speedup_Factor,Memory_Est_MB
+1000,0.0013,0.1207,0.01,0.05
+10000,0.0089,0.2826,0.03,0.46
+100000,0.2358,0.4194,0.56,4.58
+1000000,2.1716,0.0869,25.0,45.78
